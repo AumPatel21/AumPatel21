@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **aumpatel2107@gmail.com**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/hryywwcvbwwp#f7b8e4](https://www.overleaf.com/read/hryywwcvbwwp#f7b8e4)
+- 📄 Know about my experiences [My Resume](https://www.overleaf.com/read/hryywwcvbwwp#f7b8e4)
 
 - ⚡ Fun fact, **I started self learning electric guitar to challenge myself**
 
