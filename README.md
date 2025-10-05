@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aum Patel</h1>
-<h3 align="center">A rising senior at University of Massachusetts Lowell, aspiring to be a full-stack developer.</h3>
+<h3 align="center">a recent graduate from the University of Massachusetts Lowell, aspiring to be a software engineer!</h3>
 
-- 🌱 I’m currently learning **The MERN Stack**
+- 🌱 I’m currently working towards creating my own API!
 
-- 📫 How to reach me: **aumpatel2107@gmail.com**
+- 📫 How to reach me: **aumjpatel21@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1h22B-39ABmxhMtwfcJuWj8LyAFKIN0m0/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QMTMLgBbjI1Lqu6-yXSVkWnOYsULOZec/view?usp=drive_link)
 
-- ⚡ Fun fact, **I started self learning electric guitar to challenge myself**
+- ⚡ Fun fact, **I started self learning electric guitar to challenge myself (although I stull suck at it XD)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
