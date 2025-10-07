@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QMTMLgBbjI1Lqu6-yXSVkWnOYsULOZec/view?usp=drive_link)
 
-- ⚡ Fun fact, **I started self learning electric guitar to challenge myself (although I stull suck at it XD)**
+- ⚡ Fun fact, **I started self learning electric guitar to challenge myself (although I still suck at it XD)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
